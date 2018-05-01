@@ -4,6 +4,7 @@ It can be easily deployed onto a Web Server like XAMPP or WAMPP.
 
 It is collaboratively developed by Final year Students of Government Engineering College BartonHill, Trivandrum.
 Developed By :
+<br />
 Abey David
 Alan Baby Koshy
 Kirankumar M L
